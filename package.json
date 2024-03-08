@@ -7,7 +7,7 @@
     "start": "node app.js"
   },
   "author": "Sherwin Vishesh Jathanna",
-  "license": "ISC",
+  "license": "Apache-2.0 license",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
