@@ -9,7 +9,7 @@ CalmQuest is a personal therapy chatbot designed to offer conversational support
 - Privacy Focused: Ensures user conversations are handled with care, emphasizing privacy and confidentiality.
 
 ## User Interface
->Will add soon
+![CalmQuest Screenshot](https://raw.githubusercontent.com/sherwinvishesh/CalmQuest/main/public/img/CQ%20screenshot.png)
 
 ## Getting Started
 
